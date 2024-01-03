@@ -1,16 +1,16 @@
 import React from 'react'
-import {Footer, Header, Blog, Features,  Possibility, WhatGPT3 } from './containers';
+import {Footer, Header, Blog, Features,  Possibility, WhatGPT4 } from './containers';
 import { Navbar, Brand, CTA } from './components'
 
 const App = () => {
   return (
     <div className='App'>
-      <div className="gradient_bg">
+      <div className="gradient__bg">
         <Navbar />
         <Header />
       </div>
       <Brand />
-      <WhatGPT3 />
+      <WhatGPT4 />
       <Features />
       <Possibility />
       <CTA />
