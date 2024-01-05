@@ -1,6 +1,6 @@
 import React from 'react'
 import './footer.css'
-import gpt3logo from '../../assets/logo.svg'
+import logo from '../../assets/gpt4Logo.png'
 const Footer = () => {
   return (
     <div className='gpt4__footer section__padding' >
@@ -14,7 +14,7 @@ const Footer = () => {
 
       <div className="gpt4__footer-links">
         <div className="gpt4__footer-links_logo">
-          <img src={gpt3logo} alt="" />
+          <img src={logo} alt="" />
           <p>Crechterwoord K12 182 DK Alknjkcb, All Rights Reserved</p>
         </div>
         <div className="gpt4__footer-links_div">
@@ -32,14 +32,14 @@ const Footer = () => {
         </div>
         <div className="gpt4__footer-links_div">
           <h4>Get in touch</h4>
-          <p>Crechterwoord K12 182 DK Alknjkcb</p>
-          <p>085-132567</p>
-          <p>5kUeh@example.com</p>
+          <p>No 12 okija street Anambra Nigeria</p>
+          <p>+234 806 903 5907</p>
+          <p>egwimcodes@gmail.com</p>
         </div>
       </div>
 
       <div className="gpt4__footer-copyright">
-        <p>@2021 GPT-3. All rights reserved.</p>
+        <p>@2021 GPT-4. All rights reserved.</p>
       </div>
     </div>
   )
