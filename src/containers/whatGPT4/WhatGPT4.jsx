@@ -3,7 +3,7 @@ import './whatGPT4.css'
 import  Feature from '../../components/feature/Feature' 
 const WhatGPT4 = () => {
   return (
-    <div className='gpt4__whatgpt4 section__margin'>
+    <div className='gpt4__whatgpt4 section__margin' id='wgpt4'>
       <div className='gpt4__whatgpt4-feature'>
         <Feature title={'What is GPT-4?'} text={'GPT-4 is a state-of-the-art language model that can generate human-like text. It is trained on a large corpus of text data and is able to generate text that is similar to human-written text.'} />
       </div>
