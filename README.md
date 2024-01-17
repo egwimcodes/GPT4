@@ -24,4 +24,4 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## About Me
 
-I am a Nigerian Software Developer with a robust background in Python, Django, FastApi, Flutter, Dart, Javascript, ReactJS, NextJS, Css, Tailwindcss, and Bootstrap
+Wisdom Egwim is a highly skilled, ambitious Software Developer with a robust background in Python, Django, FastApi, Flutter, Dart, Javascript, ReactJS, NextJS, Css, Tailwindcss, and Bootstrap. My expertise extends beyond conventional boundaries, encompassing a profound understanding of ML and Robotics.
